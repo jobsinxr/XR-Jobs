@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,13 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-workplace-services-manager-deac97f3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Workplace Services Manager](https://jobsinxr.com/jobs/roblox-workplace-services-manager-deac97f3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 21 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-workplace-global-partner-76cd9c6c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Workplace Global Partner](https://jobsinxr.com/jobs/roblox-workplace-global-partner-76cd9c6c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 21 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-facilities-project-manager-7a554667?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Facilities Project Manager](https://jobsinxr.com/jobs/roblox-facilities-project-manager-7a554667?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 21 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-principal-network-security-engineer-b65ccd4f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Network Security Engineer](https://jobsinxr.com/jobs/roblox-principal-network-security-engineer-b65ccd4f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 21 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-test-frameworks-and-tools-df8b7771?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Test Frameworks & Tools](https://jobsinxr.com/jobs/roblox-senior-software-engineer-test-frameworks-and-tools-df8b7771?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 21 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-compute-03298e4f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Compute](https://jobsinxr.com/jobs/roblox-senior-software-engineer-compute-03298e4f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 21 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-principal-software-engineer-d4c10df4?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Software Engineer](https://jobsinxr.com/jobs/roblox-principal-software-engineer-d4c10df4?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 20 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-data-infrastructure-compute-603b151e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Data Infrastructure Compute](https://jobsinxr.com/jobs/roblox-senior-software-engineer-data-infrastructure-compute-603b151e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 20 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-principal-software-engineer-orchestration-f2da013e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Software Engineer, Orchestration](https://jobsinxr.com/jobs/roblox-principal-software-engineer-orchestration-f2da013e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 20 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-executive-talent-business-partner-4f16d7b2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Executive Talent Business Partner](https://jobsinxr.com/jobs/roblox-executive-talent-business-partner-4f16d7b2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 17 |
@@ -55,22 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Anduril Industries](https://jobsinxr.com/jobs/anduril-industries-staff-optical-test-and-calibration-engineer-ar-vr-displays-eagleeye-70c65193?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Staff Optical Test & Calibration Engineer, AR/VR Displays - EagleEye](https://jobsinxr.com/jobs/anduril-industries-staff-optical-test-and-calibration-engineer-ar-vr-displays-eagleeye-70c65193?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Bellevue, Washington, United States | On Site | Full Time | Sep 3 |
 | **[Miris](https://jobsinxr.com/jobs/miris-senior-engineering-manager-rendering-ed2e72b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Engineering Manager - Rendering](https://jobsinxr.com/jobs/miris-senior-engineering-manager-rendering-ed2e72b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Full Time | Sep 3 |
 | **[GridRaster](https://jobsinxr.com/jobs/gridraster-graphics-engineer-0d876a1a?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Graphics Engineer](https://jobsinxr.com/jobs/gridraster-graphics-engineer-0d876a1a?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Bengaluru • Bangalore Urban | On Site | Full Time | Sep 3 |
-| **[Teleport](https://jobsinxr.com/jobs/teleport-senior-engineer-on-device-spatial-intelligence-09f94d54?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Engineer, On-Device Spatial Intelligence](https://jobsinxr.com/jobs/teleport-senior-engineer-on-device-spatial-intelligence-09f94d54?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Full Time | Sep 3 |
-| **[Teleport](https://jobsinxr.com/jobs/teleport-research-scientist-spatial-foundation-models-c91579d6?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Research Scientist, Spatial Foundation Models](https://jobsinxr.com/jobs/teleport-research-scientist-spatial-foundation-models-c91579d6?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Full Time | Sep 3 |
-| **[Teleport](https://jobsinxr.com/jobs/teleport-staff-engineer-3d-reconstruction-and-nerf-613e7b68?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Staff Engineer, 3D Reconstruction & NeRF](https://jobsinxr.com/jobs/teleport-staff-engineer-3d-reconstruction-and-nerf-613e7b68?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Full Time | Sep 3 |
-| **[XYZ Reality](https://jobsinxr.com/jobs/xyz-reality-project-delivery-manager-construction-fb1f9211?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Project Delivery Manager - Construction](https://jobsinxr.com/jobs/xyz-reality-project-delivery-manager-construction-fb1f9211?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Texas, United States | On Site | Full Time | Sep 2 |
-| **[XYZ Reality](https://jobsinxr.com/jobs/xyz-reality-project-delivery-manager-construction-ce93beca?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Project Delivery Manager - Construction](https://jobsinxr.com/jobs/xyz-reality-project-delivery-manager-construction-ce93beca?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Midwest US (IL, WI, IN, or OH) | Remote | Full Time | Sep 2 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-marketing-manager-live-content-short-term-05bc7647?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Marketing Manager, Live Content (Short-Term)](https://jobsinxr.com/jobs/roblox-marketing-manager-live-content-short-term-05bc7647?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Sep 1 |
-| **[XYZ Reality](https://jobsinxr.com/jobs/xyz-reality-site-engineer-de35ee9f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Site Engineer](https://jobsinxr.com/jobs/xyz-reality-site-engineer-de35ee9f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Fargo, ND, United States | On Site | Full Time | Sep 1 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 6 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 6% remote | 4 companies | 2 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 

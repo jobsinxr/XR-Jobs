@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Oct 30, 2026 at 17:59 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,8 +12,10 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Facilities Project Manager](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[International Operations Manager](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | intern | Oct 30 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[International Operations Manager](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | intern | Oct 31 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Facilities Project Manager](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 31 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-critical-harms-investigations-and-incident-management-specialist-f26c4d40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Critical Harms Investigations & Incident Management Specialist](https://jobsinxr.com/jobs/roblox-critical-harms-investigations-and-incident-management-specialist-f26c4d40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-2027-senior-software-engineer-data-acquisition-phd-early-career-f63690d3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[[2027] Senior Software Engineer - Data Acquisition PhD Early Career](https://jobsinxr.com/jobs/roblox-2027-senior-software-engineer-data-acquisition-phd-early-career-f63690d3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-ros-734cb2bd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, ROS](https://jobsinxr.com/jobs/roblox-software-engineer-ros-734cb2bd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-test-frameworks-and-tooling-544b0bce?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Test Frameworks & Tooling](https://jobsinxr.com/jobs/roblox-software-engineer-test-frameworks-and-tooling-544b0bce?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-manager-editorial-8257c0a2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Manager, Editorial](https://jobsinxr.com/jobs/roblox-manager-editorial-8257c0a2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
@@ -60,8 +62,6 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-grc-analyst-4cef82cf?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior GRC Analyst](https://jobsinxr.com/jobs/roblox-senior-grc-analyst-4cef82cf?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 14 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-executive-business-partner-chief-business-officer-6fec260b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Executive Business Partner, Chief Business Officer](https://jobsinxr.com/jobs/roblox-executive-business-partner-chief-business-officer-6fec260b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 13 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Account Security](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-ros-564541ea?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, ROS](https://jobsinxr.com/jobs/roblox-software-engineer-ros-564541ea?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-product-support-manager-support-operations-3b9b2ad3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Product Support Manager, Support Operations](https://jobsinxr.com/jobs/roblox-senior-product-support-manager-support-operations-3b9b2ad3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 8 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-30 archive](archive/2026-10-30.md)
+- [2026-10-31 archive](archive/2026-10-31.md)
 
 ## About This Repository
 

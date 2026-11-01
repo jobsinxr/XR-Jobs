@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
+<sub><small>Last updated: Nov 1, 2026 at 17:55 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-31 archive](archive/2026-10-31.md)
+- [2026-11-01 archive](archive/2026-11-01.md)
 
 ## About This Repository
 

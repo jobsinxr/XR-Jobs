@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2026 at 19:41 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-lead-strategic-partnerships-and-operations-sea-and-oce-3f6b129c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Lead - Strategic Partnerships and Operations, SEA and OCE](https://jobsinxr.com/jobs/roblox-lead-strategic-partnerships-and-operations-sea-and-oce-3f6b129c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Singapore | On Site | Full Time | Nov 10 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-commercial-paralegal-contracts-manager-81423d67?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Commercial Paralegal - Contracts Manager](https://jobsinxr.com/jobs/roblox-senior-commercial-paralegal-contracts-manager-81423d67?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Contract | Nov 9 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-privacy-engineer-45b3bc5e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Privacy Engineer](https://jobsinxr.com/jobs/roblox-senior-privacy-engineer-45b3bc5e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 6 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-safety-threat-investigator-safety-investigations-5ff08688?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Safety Threat Investigator, Safety Investigations](https://jobsinxr.com/jobs/roblox-safety-threat-investigator-safety-investigations-5ff08688?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 6 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-developer-engagement-team-contract-b28c88af?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Developer Engagement Team (Contract)](https://jobsinxr.com/jobs/roblox-developer-engagement-team-contract-b28c88af?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Contract | Nov 6 |
@@ -19,6 +21,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-quality-analyst-051a51d2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Quality Analyst](https://jobsinxr.com/jobs/roblox-quality-analyst-051a51d2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Moderation Escalation Specialist](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - Ledger](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 4 |
+| **[Epic Games](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-9621fe41?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Language Programmer](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-9621fe41?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | London,England,United Kingdom | On Site | Full Time | Nov 4 |
 | **[Epic Games](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Language Programmer](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Vancouver,British Columbia,Canada | On Site | Full Time | Nov 4 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-manager-marketing-operations-f3ab9013?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Manager, Marketing Operations](https://jobsinxr.com/jobs/snap-inc-manager-marketing-operations-f3ab9013?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | London, United Kingdom | On Site | Full Time | Nov 4 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-advanced-development-engineer-gpu-networking-dcb0c710?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Advanced Development Engineer, GPU Networking](https://jobsinxr.com/jobs/nvidia-senior-advanced-development-engineer-gpu-networking-dcb0c710?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Israel, Tel Aviv | On Site | Full Time | Nov 4 |
@@ -59,9 +62,6 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-manager-business-development-a00146bf?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Manager, Business Development](https://jobsinxr.com/jobs/snap-inc-manager-business-development-a00146bf?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Beijing, China | On Site | Full Time | Oct 30 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-principal-system-software-engineer-cuda-driver-6e4cb55f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal System Software Engineer - CUDA Driver](https://jobsinxr.com/jobs/nvidia-principal-system-software-engineer-cuda-driver-6e4cb55f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Oct 30 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-algorithm-engineer-autonomous-vehicles-1023f59c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Algorithm Engineer -- Autonomous Vehicles](https://jobsinxr.com/jobs/nvidia-senior-algorithm-engineer-autonomous-vehicles-1023f59c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Oct 30 |
-| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-compiler-engineer-gpu-compute-6e35bd30?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Compiler Engineer – GPU Compute](https://jobsinxr.com/jobs/nvidia-senior-compiler-engineer-gpu-compute-6e35bd30?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Oct 30 |
-| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-compiler-optimization-engineer-mlir-f3cc54ff?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Compiler Optimization Engineer - MLIR](https://jobsinxr.com/jobs/nvidia-senior-compiler-optimization-engineer-mlir-f3cc54ff?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, WA, Redmond | On Site | Full Time | Oct 30 |
-| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-engineering-manager-graphics-apis-and-platforms-13b1b423?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Engineering Manager, Graphics APIs and Platforms](https://jobsinxr.com/jobs/nvidia-senior-engineering-manager-graphics-apis-and-platforms-13b1b423?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Oct 30 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-09 archive](archive/2026-11-09.md)
+- [2026-11-10 archive](archive/2026-11-10.md)
 
 ## About This Repository
 

@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-network-infrastructure-engineer-16310df9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Network Infrastructure Engineer](https://jobsinxr.com/jobs/nvidia-senior-network-infrastructure-engineer-16310df9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | India, Remote | Remote | Full Time | Nov 13 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-530aad97?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Reliability](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-530aad97?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 12 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-brand-designer-3f5b8c40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Brand Designer](https://jobsinxr.com/jobs/roblox-senior-brand-designer-3f5b8c40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 12 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-lead-strategic-partnerships-and-operations-sea-and-oce-3f6b129c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Lead - Strategic Partnerships and Operations, SEA and OCE](https://jobsinxr.com/jobs/roblox-lead-strategic-partnerships-and-operations-sea-and-oce-3f6b129c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Singapore | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-asic-design-verification-engineer-specs-59bf4d33?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[ASIC Design Verification Engineer - Specs](https://jobsinxr.com/jobs/snap-inc-asic-design-verification-engineer-specs-59bf4d33?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Eindhoven - Netherlands | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-cloud-software-engineer-a233199a?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Cloud Software Engineer](https://jobsinxr.com/jobs/snap-inc-cloud-software-engineer-a233199a?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Zurich - Switzerland | On Site | Full Time | Nov 10 |
@@ -59,18 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Autodesk](https://jobsinxr.com/jobs/autodesk-technical-adoption-specialist-civil-3d-french-speaking-2a247cfd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Adoption Specialist, Civil 3D, French speaking](https://jobsinxr.com/jobs/autodesk-technical-adoption-specialist-civil-3d-french-speaking-2a247cfd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | EMEA - Spain - Madrid - Offsite/Home | On Site | Full Time | Nov 2 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[International Operations Manager](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | intern | Oct 31 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Facilities Project Manager](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 31 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-critical-harms-investigations-and-incident-management-specialist-f26c4d40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Critical Harms Investigations & Incident Management Specialist](https://jobsinxr.com/jobs/roblox-critical-harms-investigations-and-incident-management-specialist-f26c4d40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-2027-senior-software-engineer-data-acquisition-phd-early-career-f63690d3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[[2027] Senior Software Engineer - Data Acquisition PhD Early Career](https://jobsinxr.com/jobs/roblox-2027-senior-software-engineer-data-acquisition-phd-early-career-f63690d3?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-ros-734cb2bd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, ROS](https://jobsinxr.com/jobs/roblox-software-engineer-ros-734cb2bd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 5 companies | 14 salary ranges listed
+**Current Stats:** 50 jobs | 4% remote | 5 companies | 14 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 

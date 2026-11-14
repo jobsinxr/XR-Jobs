@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-roblox-os-69992219?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Roblox OS](https://jobsinxr.com/jobs/roblox-senior-software-engineer-roblox-os-69992219?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 14 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-network-infrastructure-engineer-16310df9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Network Infrastructure Engineer](https://jobsinxr.com/jobs/nvidia-senior-network-infrastructure-engineer-16310df9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | India, Remote | Remote | Full Time | Nov 13 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-530aad97?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Reliability](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-530aad97?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 12 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-brand-designer-3f5b8c40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Brand Designer](https://jobsinxr.com/jobs/roblox-senior-brand-designer-3f5b8c40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 12 |
@@ -61,7 +62,6 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-system-software-engineer-cuda-driver-for-windows-dbf4ed28?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior System Software Engineer, CUDA Driver for Windows](https://jobsinxr.com/jobs/nvidia-senior-system-software-engineer-cuda-driver-for-windows-dbf4ed28?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Nov 2 |
 | **[Autodesk](https://jobsinxr.com/jobs/autodesk-technical-adoption-specialist-civil-3d-french-speaking-2a247cfd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Adoption Specialist, Civil 3D, French speaking](https://jobsinxr.com/jobs/autodesk-technical-adoption-specialist-civil-3d-french-speaking-2a247cfd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | EMEA - Spain - Madrid - Offsite/Home | On Site | Full Time | Nov 2 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[International Operations Manager](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | intern | Oct 31 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Facilities Project Manager](https://jobsinxr.com/jobs/roblox-facilities-project-manager-5e287612?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 31 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-13 archive](archive/2026-11-13.md)
+- [2026-11-14 archive](archive/2026-11-14.md)
 
 ## About This Repository
 

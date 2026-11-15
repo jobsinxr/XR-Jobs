@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -13,6 +13,8 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-roblox-os-69992219?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Roblox OS](https://jobsinxr.com/jobs/roblox-senior-software-engineer-roblox-os-69992219?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 14 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-operator-12-month-ftc-b6666e55?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Operator (12 Month FTC)](https://jobsinxr.com/jobs/snap-inc-operator-12-month-ftc-b6666e55?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Abingdon - 141 Park Drive | On Site | Full Time | Nov 13 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-rf-hardware-engineer-731b90cc?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[RF Hardware Engineer](https://jobsinxr.com/jobs/snap-inc-rf-hardware-engineer-731b90cc?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Boulder, Colorado | On Site | Full Time | Nov 13 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-network-infrastructure-engineer-16310df9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Network Infrastructure Engineer](https://jobsinxr.com/jobs/nvidia-senior-network-infrastructure-engineer-16310df9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | India, Remote | Remote | Full Time | Nov 13 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-530aad97?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer, Reliability](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-530aad97?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 12 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-brand-designer-3f5b8c40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Brand Designer](https://jobsinxr.com/jobs/roblox-senior-brand-designer-3f5b8c40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 12 |
@@ -60,17 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-creative-strategist-8742acff?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Creative Strategist](https://jobsinxr.com/jobs/snap-inc-creative-strategist-8742acff?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 2 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-director-graphics-systems-software-fbdf52dc?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Director, Graphics Systems Software](https://jobsinxr.com/jobs/nvidia-senior-director-graphics-systems-software-fbdf52dc?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Nov 2 |
 | **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-system-software-engineer-cuda-driver-for-windows-dbf4ed28?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior System Software Engineer, CUDA Driver for Windows](https://jobsinxr.com/jobs/nvidia-senior-system-software-engineer-cuda-driver-for-windows-dbf4ed28?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Nov 2 |
-| **[Autodesk](https://jobsinxr.com/jobs/autodesk-technical-adoption-specialist-civil-3d-french-speaking-2a247cfd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Adoption Specialist, Civil 3D, French speaking](https://jobsinxr.com/jobs/autodesk-technical-adoption-specialist-civil-3d-french-speaking-2a247cfd?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | EMEA - Spain - Madrid - Offsite/Home | On Site | Full Time | Nov 2 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[International Operations Manager](https://jobsinxr.com/jobs/roblox-international-operations-manager-cf169bde?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | intern | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 5 companies | 14 salary ranges listed
+**Current Stats:** 50 jobs | 4% remote | 4 companies | 15 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-14 archive](archive/2026-11-14.md)
+- [2026-11-15 archive](archive/2026-11-15.md)
 
 ## About This Repository
 

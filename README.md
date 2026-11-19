@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -42,6 +42,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-principal-software-engineer-business-experience-c7415d67?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Software Engineer, Business Experience](https://jobsinxr.com/jobs/snap-inc-principal-software-engineer-business-experience-c7415d67?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Palo Alto, California | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-quality-engineer-2377033e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Quality Engineer](https://jobsinxr.com/jobs/snap-inc-quality-engineer-2377033e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Vienna, Austria | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-senior-manager-gtm-architect-4e4103b6?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Manager, GTM Architect](https://jobsinxr.com/jobs/snap-inc-senior-manager-gtm-architect-4e4103b6?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | New York, New York | On Site | Full Time | Nov 10 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-senior-marketing-scientist-ee3f414b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Marketing Scientist](https://jobsinxr.com/jobs/snap-inc-senior-marketing-scientist-ee3f414b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Singapore, Singapore | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-f20a26b5?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, C++](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-f20a26b5?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Paris, France | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-4-9dc129a9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, C++, Level 4](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-4-9dc129a9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-5-92261dd8?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, C++, Level 5](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-5-92261dd8?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
@@ -61,7 +62,6 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - Ledger](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 4 |
 | **[Epic Games](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Language Programmer](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Vancouver,British Columbia,Canada | On Site | Full Time | Nov 4 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-manager-marketing-operations-f3ab9013?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Manager, Marketing Operations](https://jobsinxr.com/jobs/snap-inc-manager-marketing-operations-f3ab9013?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | London, United Kingdom | On Site | Full Time | Nov 4 |
-| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-advanced-development-engineer-gpu-networking-dcb0c710?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Advanced Development Engineer, GPU Networking](https://jobsinxr.com/jobs/nvidia-senior-advanced-development-engineer-gpu-networking-dcb0c710?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Israel, Tel Aviv | On Site | Full Time | Nov 4 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-18 archive](archive/2026-11-18.md)
+- [2026-11-19 archive](archive/2026-11-19.md)
 
 ## About This Repository
 

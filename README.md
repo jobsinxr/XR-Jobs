@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ugc-marketplace-be12732b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - UGC Marketplace](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ugc-marketplace-be12732b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 19 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-manager-security-governance-risk-and-compliance-278a555d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Manager, Security Governance, Risk and Compliance](https://jobsinxr.com/jobs/roblox-senior-manager-security-governance-risk-and-compliance-278a555d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 17 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-communication-safety-941f1107?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Communication Safety](https://jobsinxr.com/jobs/roblox-software-engineer-communication-safety-941f1107?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 17 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-security-auditor-6d7db11c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Security Auditor](https://jobsinxr.com/jobs/roblox-senior-security-auditor-6d7db11c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 17 |
@@ -61,7 +62,6 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Moderation Escalation Specialist](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - Ledger](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 4 |
 | **[Epic Games](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Language Programmer](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Vancouver,British Columbia,Canada | On Site | Full Time | Nov 4 |
-| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-manager-marketing-operations-f3ab9013?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Manager, Marketing Operations](https://jobsinxr.com/jobs/snap-inc-manager-marketing-operations-f3ab9013?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | London, United Kingdom | On Site | Full Time | Nov 4 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-19 archive](archive/2026-11-19.md)
+- [2026-11-20 archive](archive/2026-11-20.md)
 
 ## About This Repository
 

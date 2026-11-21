@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Enterprise Security Engineer](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 20 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ugc-marketplace-be12732b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - UGC Marketplace](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ugc-marketplace-be12732b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 19 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-manager-security-governance-risk-and-compliance-278a555d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Manager, Security Governance, Risk and Compliance](https://jobsinxr.com/jobs/roblox-senior-manager-security-governance-risk-and-compliance-278a555d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 17 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-communication-safety-941f1107?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Communication Safety](https://jobsinxr.com/jobs/roblox-software-engineer-communication-safety-941f1107?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 17 |
@@ -61,16 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-quality-analyst-051a51d2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Quality Analyst](https://jobsinxr.com/jobs/roblox-quality-analyst-051a51d2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Moderation Escalation Specialist](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - Ledger](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 4 |
-| **[Epic Games](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Language Programmer](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-1d352619?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Vancouver,British Columbia,Canada | On Site | Full Time | Nov 4 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 4 companies | 15 salary ranges listed
+**Current Stats:** 50 jobs | 4% remote | 3 companies | 15 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-20 archive](archive/2026-11-20.md)
+- [2026-11-21 archive](archive/2026-11-21.md)
 
 ## About This Repository
 

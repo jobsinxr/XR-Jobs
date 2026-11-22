@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2026 at 19:32 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -13,6 +13,12 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Enterprise Security Engineer](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 20 |
+| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-developer-relations-manager-higher-education-and-research-germany-d71d5f29?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Developer Relations Manager - Higher Education and Research - Germany](https://jobsinxr.com/jobs/nvidia-developer-relations-manager-higher-education-and-research-germany-d71d5f29?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Germany, Munich | On Site | Full Time | Nov 20 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-global-industry-lead-retail-specs-ead45279?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Global Industry Lead, Retail SPECS](https://jobsinxr.com/jobs/snap-inc-global-industry-lead-retail-specs-ead45279?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Sunnyvale, California | On Site | Full Time | Nov 20 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-principal-software-engineer-ads-format-72538270?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Software Engineer, Ads Format](https://jobsinxr.com/jobs/snap-inc-principal-software-engineer-ads-format-72538270?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Sunnyvale, California | On Site | Full Time | Nov 20 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-principal-software-engineer-business-experience-3ea79a04?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Software Engineer, Business Experience](https://jobsinxr.com/jobs/snap-inc-principal-software-engineer-business-experience-3ea79a04?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Sunnyvale, California | On Site | Full Time | Nov 20 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-partner-manager-enterprise-solutions-specs-2666d6a0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Partner Manager, Enterprise Solutions SPECS](https://jobsinxr.com/jobs/snap-inc-technical-partner-manager-enterprise-solutions-specs-2666d6a0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Sunnyvale, California | On Site | Full Time | Nov 20 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-level-5-17807566?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Program Manager - Level 5](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-level-5-17807566?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Sunnyvale, California | On Site | Full Time | Nov 20 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ugc-marketplace-be12732b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - UGC Marketplace](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ugc-marketplace-be12732b?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 19 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-manager-security-governance-risk-and-compliance-278a555d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Manager, Security Governance, Risk and Compliance](https://jobsinxr.com/jobs/roblox-senior-manager-security-governance-risk-and-compliance-278a555d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 17 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-communication-safety-941f1107?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Communication Safety](https://jobsinxr.com/jobs/roblox-software-engineer-communication-safety-941f1107?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 17 |
@@ -56,21 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-b7924866?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Program Manager](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-b7924866?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Palo Alto, California | On Site | Full Time | Nov 10 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-commercial-paralegal-contracts-manager-81423d67?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Commercial Paralegal - Contracts Manager](https://jobsinxr.com/jobs/roblox-senior-commercial-paralegal-contracts-manager-81423d67?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Contract | Nov 9 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-privacy-engineer-45b3bc5e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Privacy Engineer](https://jobsinxr.com/jobs/roblox-senior-privacy-engineer-45b3bc5e?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 6 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-safety-threat-investigator-safety-investigations-5ff08688?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Safety Threat Investigator, Safety Investigations](https://jobsinxr.com/jobs/roblox-safety-threat-investigator-safety-investigations-5ff08688?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 6 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-developer-engagement-team-contract-b28c88af?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Developer Engagement Team (Contract)](https://jobsinxr.com/jobs/roblox-developer-engagement-team-contract-b28c88af?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Contract | Nov 6 |
-| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-senior-manager-graphics-systems-software-and-compute-graphics-chips-6dc3d37f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Manager, Graphics Systems Software and Compute Graphics Chips](https://jobsinxr.com/jobs/nvidia-senior-manager-graphics-systems-software-and-compute-graphics-chips-6dc3d37f?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Finland, Helsinki | On Site | Full Time | Nov 6 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-quality-analyst-051a51d2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Quality Analyst](https://jobsinxr.com/jobs/roblox-quality-analyst-051a51d2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Moderation Escalation Specialist](https://jobsinxr.com/jobs/roblox-moderation-escalation-specialist-7b74d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Gurugram, Haryana, India | On Site | Full Time | Nov 5 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Software Engineer - Ledger](https://jobsinxr.com/jobs/roblox-senior-software-engineer-ledger-6d0d8330?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 4 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 3 companies | 15 salary ranges listed
+**Current Stats:** 50 jobs | 2% remote | 3 companies | 20 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-21 archive](archive/2026-11-21.md)
+- [2026-11-22 archive](archive/2026-11-22.md)
 
 ## About This Repository
 

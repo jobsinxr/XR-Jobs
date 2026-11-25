@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-gsoc-manager-917cb1f1?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[GSOC Manager](https://jobsinxr.com/jobs/roblox-gsoc-manager-917cb1f1?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 24 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-security-operations-engineer-incident-response-66c26774?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Security Operations Engineer, Incident Response](https://jobsinxr.com/jobs/roblox-senior-security-operations-engineer-incident-response-66c26774?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 23 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-data-tooling-ab7fab00?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Data Tooling](https://jobsinxr.com/jobs/roblox-software-engineer-data-tooling-ab7fab00?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 23 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Enterprise Security Engineer](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 20 |
@@ -61,16 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-staff-smc-revenue-growth-5a1db60c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Staff, SMC Revenue Growth](https://jobsinxr.com/jobs/snap-inc-staff-smc-revenue-growth-5a1db60c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | New York, New York | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-operations-manufacturing-electrical-engineer-e9be6cce?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Operations Manufacturing Electrical Engineer](https://jobsinxr.com/jobs/snap-inc-technical-operations-manufacturing-electrical-engineer-e9be6cce?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Taipei City, Taiwan | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-partner-manager-enterprise-solutions-specs-c735ea40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Partner Manager, Enterprise Solutions SPECS](https://jobsinxr.com/jobs/snap-inc-technical-partner-manager-enterprise-solutions-specs-c735ea40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Palo Alto, California | On Site | Full Time | Nov 10 |
-| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-b7924866?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Program Manager](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-b7924866?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Palo Alto, California | On Site | Full Time | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 3 companies | 20 salary ranges listed
+**Current Stats:** 50 jobs | 2% remote | 3 companies | 19 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-24 archive](archive/2026-11-24.md)
+- [2026-11-25 archive](archive/2026-11-25.md)
 
 ## About This Repository
 

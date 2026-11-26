@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # XR Jobs — 2026
 
-<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
 
 Daily XR, AR, and VR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs).
@@ -12,7 +12,10 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-developer-engagement-team-contract-8f87d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Developer Engagement Team (Contract)](https://jobsinxr.com/jobs/roblox-developer-engagement-team-contract-8f87d3b9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Remote | Remote | Contract | Nov 25 |
+| **[NVIDIA](https://jobsinxr.com/jobs/nvidia-principal-graphics-hardware-architect-2a02da80?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Principal Graphics Hardware Architect](https://jobsinxr.com/jobs/nvidia-principal-graphics-hardware-architect-2a02da80?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | US, CA, Santa Clara | On Site | Full Time | Nov 25 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-gsoc-manager-917cb1f1?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[GSOC Manager](https://jobsinxr.com/jobs/roblox-gsoc-manager-917cb1f1?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 24 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-level-4-8e0cc9a9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Program Manager - Level 4](https://jobsinxr.com/jobs/snap-inc-technical-program-manager-level-4-8e0cc9a9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 24 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-security-operations-engineer-incident-response-66c26774?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Security Operations Engineer, Incident Response](https://jobsinxr.com/jobs/roblox-senior-security-operations-engineer-incident-response-66c26774?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 23 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-data-tooling-ab7fab00?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Data Tooling](https://jobsinxr.com/jobs/roblox-software-engineer-data-tooling-ab7fab00?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 23 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Senior Enterprise Security Engineer](https://jobsinxr.com/jobs/roblox-senior-enterprise-security-engineer-818f7cc0?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Nov 20 |
@@ -38,6 +41,7 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-asic-design-verification-engineer-specs-59bf4d33?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[ASIC Design Verification Engineer - Specs](https://jobsinxr.com/jobs/snap-inc-asic-design-verification-engineer-specs-59bf4d33?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Eindhoven - Netherlands | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-cloud-software-engineer-a233199a?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Cloud Software Engineer](https://jobsinxr.com/jobs/snap-inc-cloud-software-engineer-a233199a?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Zurich - Switzerland | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-display-systems-engineering-manager-f8c9e35c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Display Systems Engineering Manager](https://jobsinxr.com/jobs/snap-inc-display-systems-engineering-manager-f8c9e35c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Plymouth - United Kingdom | On Site | Full Time | Nov 10 |
+| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-1a8251e4?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Electrical Engineer](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-1a8251e4?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Paris, France | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-1ca064df?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Electrical Engineer](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-1ca064df?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-devices-8c43cb0d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Electrical Engineer, Devices](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-devices-8c43cb0d?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Taipei City, Taiwan | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-level-4-10d7a845?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Electrical Engineer, Level 4](https://jobsinxr.com/jobs/snap-inc-electrical-engineer-level-4-10d7a845?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
@@ -58,19 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-4-9dc129a9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, C++, Level 4](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-4-9dc129a9?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-5-92261dd8?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, C++, Level 5](https://jobsinxr.com/jobs/snap-inc-software-engineer-c-level-5-92261dd8?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
 | **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-software-engineer-specs-c-level-5-1678bc57?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Software Engineer, Specs C++, Level 5](https://jobsinxr.com/jobs/snap-inc-software-engineer-specs-c-level-5-1678bc57?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Los Angeles, California | On Site | Full Time | Nov 10 |
-| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-spectacles-student-worker-software-engineer-embedded-93f15fd2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Spectacles Student Worker -Software Engineer, Embedded](https://jobsinxr.com/jobs/snap-inc-spectacles-student-worker-software-engineer-embedded-93f15fd2?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Vienna, Austria | On Site | Full Time | Nov 10 |
-| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-staff-smc-revenue-growth-5a1db60c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Staff, SMC Revenue Growth](https://jobsinxr.com/jobs/snap-inc-staff-smc-revenue-growth-5a1db60c?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | New York, New York | On Site | Full Time | Nov 10 |
-| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-operations-manufacturing-electrical-engineer-e9be6cce?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Operations Manufacturing Electrical Engineer](https://jobsinxr.com/jobs/snap-inc-technical-operations-manufacturing-electrical-engineer-e9be6cce?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Taipei City, Taiwan | On Site | Full Time | Nov 10 |
-| **[Snap Inc.](https://jobsinxr.com/jobs/snap-inc-technical-partner-manager-enterprise-solutions-specs-c735ea40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | **[Technical Partner Manager, Enterprise Solutions SPECS](https://jobsinxr.com/jobs/snap-inc-technical-partner-manager-enterprise-solutions-specs-c735ea40?utm_source=github&utm_medium=repo&utm_campaign=github-xr-jobs)** | Palo Alto, California | On Site | Full Time | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 3 companies | 19 salary ranges listed
+**Current Stats:** 50 jobs | 4% remote | 3 companies | 18 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-25 archive](archive/2026-11-25.md)
+- [2026-11-26 archive](archive/2026-11-26.md)
 
 ## About This Repository
 
